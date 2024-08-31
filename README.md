@@ -8,7 +8,7 @@ The repository is organized into two main subfolders:
 ## 1. Machine Learning Algorithms
 This folder contains resources and code for various machine learning algorithms using the popular Python library:
 
-### scikit-learn: A powerful tool for machine learning and data mining tasks, including regression, classification, clustering, and model evaluation.
+### Scikit-Learn: A powerful tool for machine learning and data mining tasks, including regression, classification, clustering, and model evaluation.
 
 ## 2. Visualization Tools
 This folder contains resources and code for data visualization using the following Python libraries:
